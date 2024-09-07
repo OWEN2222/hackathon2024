@@ -1,0 +1,40 @@
+{
+  "name": "px-vue",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "aos": "^2.3.4",
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tsconfig/node20": "^20.1.4",
+    "@types/aos": "^3.0.7",
+    "@types/axios": "^0.9.36",
+    "@types/node": "^20.14.5",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "@vue/tsconfig": "^0.5.1",
+    "autoprefixer": "^10.4.12",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "normalize.css": "^8.0.1",
+    "npm-run-all2": "^6.2.0",
+    "postcss": "^8.4.18",
+    "prettier": "^2.7.1",
+    "sass": "^1.52.0",
+    "tailwindcss": "^3.2.1",
+    "typescript": "^5.5.4",
+    "vite": "^5.3.1",
+    "vue-tsc": "^2.0.21"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
